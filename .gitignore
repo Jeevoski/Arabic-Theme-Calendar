@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.log
+
+# Local editor/system files
+.DS_Store
+Thumbs.db
+
+# Temporary source images kept at repo root
+/240_F_*.jpg
+/360_F_*.jpg
